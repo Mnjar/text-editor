@@ -23,3 +23,30 @@ This project was created solely as a learning exercise to strengthen my understa
 ## Test Results
 
 ![test-result](https://github.com/Mnjar/text-editor/blob/main/test_result.png?raw=true)
+
+## How to Run
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Mnjar/text-editor.git
+   cd text-editor
+   ```
+
+2. Build the project:
+
+   ```bash
+   make all
+   ```
+
+3. Run the tests:
+
+   ```bash
+   make test
+   ```
+
+4. Execute the program (if you want):
+
+   ```bash
+   ./run_editor
+   ```
