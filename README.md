@@ -11,8 +11,6 @@ The text editor supports basic functionalities such as:
 - Undo/Redo operations
 - Saving text to a file
 
-This project was created solely as a learning exercise to strengthen my understanding of data structures and algorithms.
-
 ## Features
 
 - **Add Text**: Append new text to the existing content.
