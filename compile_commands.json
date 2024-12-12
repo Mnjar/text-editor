@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/opt/homebrew/opt/llvm/bin/clang++",
+      "-std=c++17",
+      "-Wall",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "main.o",
+      "main.cpp"
+    ],
+    "directory": "/Users/fajar/Projects/C++/Text Editor",
+    "file": "/Users/fajar/Projects/C++/Text Editor/main.cpp",
+    "output": "/Users/fajar/Projects/C++/Text Editor/main.o"
+  }
+]
